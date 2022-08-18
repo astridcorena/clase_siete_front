@@ -1,0 +1,36 @@
+img {
+    margin: auto;
+    display: block;
+}
+
+h1 { 
+    color : #005677; 
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 15px;
+    text-align: center;
+    }
+
+h2 {
+    color : #005677; 
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 8px;
+}
+
+i {
+    margin: 8px;
+}
+
+footer {
+    background-origin: padding-box;
+    color: #edf3f5; 
+    background-color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+
+.dates {
+    text-indent: 76px;
+}
+    
